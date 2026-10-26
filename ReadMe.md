@@ -1,1 +1,1 @@
-Trying out vibe coding to see what it is possible to build. 
+Trying out vibe coding to see what is possible. 
